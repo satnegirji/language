@@ -1,4 +1,6 @@
 require "language/version"
+require "language/accent"
+require "language/word_class"
 
 module Language
 
